@@ -84,6 +84,7 @@ h2 {
    box-shadow: 0 0.5px rgba(0, 0, 0, 0.5);
    cursor: pointer;
    background-color: aqua;
+   font-weight: bold;
 }
 
 .container-digitos button:hover {
@@ -100,4 +101,8 @@ h2 {
 
 #limpar {
     background-color: orange;
+}
+
+button {
+   font-weight: bold;
 }
